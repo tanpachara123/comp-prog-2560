@@ -18,7 +18,7 @@ How many step of your stair: 5
 
 ^|
 
->>>>>Start to play<<<<<
+    >>>>>Start to play<<<<<
 
 Input to move: 2
 
