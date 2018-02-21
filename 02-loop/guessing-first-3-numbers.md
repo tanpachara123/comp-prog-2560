@@ -13,6 +13,13 @@
 
 `<อ้างอิงวิธีการคิดจาก>` : <https://www.youtube.com/watch?v=wytHdSptUnc>
 
+ข้อมูลนำเข้า 	:	เลขรางวัลที่ 1 ของงวดที่แล้ว
+
+
+ข้อมูลออก	:	เลข 2 ตัวที่คาดว่าน่าจะมีในเลข 3 ตัวแรกของเลขลอตเตอรี่รางวัลที่ 1 ในงวดถัดไป
+
+
+### วิธีการคำนวณ
 
 ![](https://raw.githubusercontent.com/noonnutchaya/6010405211/master/guessing%20first%20three%20numbers.png)
 
