@@ -6,7 +6,7 @@
    2. นำเลขหลักร้อยคูณด้วย 3 จากนั้นให้นำไปบวกกับเลขหลักหน่วยของรางวัลที่ 1 ในงวดที่แล้ว
    3. นำผลลัพธ์ที่ได้จากข้อ 1 และ ข้อ 2 มารวมกัน ผลลัพธ์ที่ได้และผลลัพธ์ที่ได้บวกด้วย 2 จะเป็น   ตัวเลขที่น่าจะมีในเลข 3 ตัวแรกของเลขลอตเตอรี่รางวัลที่ 1 ในงวดถัดไป
 
-หมายเหตุ :	
+หมายเหตุ :
 ถ้าผลลัพธ์ในการกระทำใดๆมีค่ามากกว่า 1 หลักให้ใช้เลขหลักสุดท้าย
 
 หากมีการกรอกค่านำเข้าผิดให้ขึ้นประโยคว่า “SORRY, please enter new numbers.”
@@ -25,17 +25,15 @@
 
 ### ตัวอย่าง Input/Output
 ตัวอย่าง Input/Output ที่ 1
-
+```
 Enter first prize winning numbers last time (6 digits) : 12345
 
 SORRY, please enter new numbers.
+```
 
 ตัวอย่าง Input/Output ที่ 2
-
+```
 Enter first prize winning numbers last time (6 digits) :  887102
 
 Next time will have 2 and 4 in first three numbers in a lottery.  
-
-
-
-
+```
