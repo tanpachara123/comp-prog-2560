@@ -15,20 +15,27 @@
     - อักขระที่ถูกถักเรียงต่อกับอักขระที่ถูกถักที่ถูกกลับ โดยมี - คั่นระหว่างอักขระแต่ละตัว
 
 ## Test case
+
+Test case \#1
 ```
-//Test case #1
 4
 a-d-b-c-c-b-d-a
+```
 
-//Test case #2
+Test case \#2
+```
 7
 a-g-b-f-c-e-d-d-e-c-f-b-g-a
+```
 
-//Test case #3
+Test case \#3
+```
 1
 a-a
+```
 
-//Test case #4
+Test case \#4
+```
 27
 ERROR
 ```

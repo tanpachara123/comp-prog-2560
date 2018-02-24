@@ -17,16 +17,21 @@
     - ผลการตรวจสอบ (URL or NOT URL)
 
 ## Test case
+
+Test case \#1
 ```
-//Test case #1
 Enter your text here (max 19 char): www.a.b.c.com
 URL
+```
 
-//Test case #2
+Test case \#2
+```
 Enter your text here (max 19 char): www.a.
 NOT URL
+```
 
-//Test case #3
+Test case \#3
+```
 Enter your text here (max 19 char): www.a b.com
 NOT URL
 ```
