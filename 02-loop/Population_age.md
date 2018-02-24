@@ -9,26 +9,28 @@
 **ตัวอย่าง Input/Output**
 
 ตัวอย่างที่ 1
+```
+Enter number of people : 4
+Enter age 1 : 20
+Enter age 2 : 30
+Enter age 3 : 50
+Enter age 4 : 40
 
-    Enter number of people : 4
-    Enter age 1 : 20
-    Enter age 2 : 30
-    Enter age 3 : 50
-    Enter age 4 : 40
-
-    Min = 20
-    Max = 50
-    Average age = 35.00
+Min = 20
+Max = 50
+Average age = 35.00
+```
 
 ตัวอย่างที่ 2
+```
+Enter number of people : 3
+Enter age 1 : 0
+Invalid age.
+Enter age 2 : 16
+Enter age 3 : 24
+Enter age 4 : 36
 
-    Enter number of people : 3
-    Enter age 1 : 0
-    Invalid age.
-    Enter age 2 : 16
-    Enter age 3 : 24
-    Enter age 4 : 36
-
-    Min = 16
-    Max = 36
-    Average age = 25.33
+Min = 16
+Max = 36
+Average age = 25.33
+```
